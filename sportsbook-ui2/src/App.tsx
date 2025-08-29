@@ -1,6 +1,6 @@
 import React, { useMemo, useState } from 'react';
 import { motion } from 'framer-motion';
-import { Search, User, Wallet, ChevronDown, Clock, Star, Tv, Football, Baseball, Basketball, Goal, Golf, Gauge, Sword, Car, Cricket, Bug, Trophy, Trash2 } from 'lucide-react';
+import { Search, User, Wallet, ChevronDown, Clock, Star, Tv, Baseball, Basketball, Goal, Golf, Gauge, Sword, Car, Cricket, Bug, Trophy } from 'lucide-react';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
